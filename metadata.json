@@ -1,0 +1,6 @@
+{
+  "name": "Astra AI",
+  "description": "Plataforma unificada de IA con Gemini, ChatGPT, Grok, Copilot, Claude y Llama. Comparación simultánea en pantalla dividida y búsqueda semántica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
